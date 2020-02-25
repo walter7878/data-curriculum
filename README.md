@@ -11,3 +11,6 @@
 ## 03 SQL:
 - [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified. 
 - [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/) 
+
+## 04 Basics of DS and ML, non (too) technical:
+- [yt] [Introduction to Machine Learning. Eric Grimson. MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/watch?v=h0e2HAPTGF4). Introductory session of the MIT60002 course. 
