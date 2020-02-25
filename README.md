@@ -9,15 +9,3 @@
 
 ## 03 SQL:
 - [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified. 
-
-
-
-
-
-
-
-
-- [book]
-- [mooc]
-- [yt]
-- [misc]
