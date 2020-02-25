@@ -12,5 +12,10 @@
 - [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified. 
 - [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/) 
 
-## 04 Basics of DS and ML, non (too) technical:
+## 04 Basics of DS and ML, not (too) technical:
 - [yt] [Introduction to Machine Learning. Eric Grimson. MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/watch?v=h0e2HAPTGF4). Introductory session of the MIT60002 course. 
+- [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
+
+
+## XX Other stuff:
+- [yt][The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
