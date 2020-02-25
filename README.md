@@ -18,4 +18,4 @@
 
 
 ## XX Other stuff:
-- [yt][The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
+- [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
