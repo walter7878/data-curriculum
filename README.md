@@ -1,4 +1,4 @@
-# Data Curriculum.
+# Data Curriculum (WIP).
 
 ## 02 Python:
 - [mooc] [Complete Python Bootcamp: Go from zero to hero in Python 3. Udemy.](https://www.udemy.com/course/complete-python-bootcamp/) General Python training. Excellent, verified.
