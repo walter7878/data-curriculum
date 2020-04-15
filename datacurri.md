@@ -6,6 +6,7 @@
 3. [book] [Learning Python. Mark Lutz](https://amzn.to/37TeCIs). An amazing reference. The bible of Python. A comprehensive, in-depth introduction to the core Python language. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages.  
 4. [yt] [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw). Amazing material. 4.20 hours, full hands on. For absolute beginners. Verified.
 5. [book] [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. Matthes](https://amzn.to/2PpwtAh). A straightforward introduction to the core of Python programming designed to provide a foundation in general programming concepts, Python fundamentals, and problem solving.
+6. [yt / mooc{uni}] [Intro to CS and programming in Python. MIT.](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA).6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. [Course Web](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 
 ## 03 SQL:
