@@ -16,11 +16,7 @@
 1. [yt] [Introduction to Machine Learning. Eric Grimson. MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/watch?v=h0e2HAPTGF4). Introductory session of the MIT60002 course. 
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 
-## XX Other stuff:
-1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
-2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
-
-## YY Specific topics:
+## 99 Specific topics:
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
 2. [post] [Introduction to recommender systems.](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada). Overview of some major recommendation algorithms. 
@@ -29,4 +25,6 @@
 5. [post] [Machine Learning for Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed). Part 1 (algorithms, evaluation and cold start).
 6. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques. 
 
-
+## XX Other stuff:
+1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
+2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
