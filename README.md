@@ -22,3 +22,9 @@
 
 ## YY Specific topics:
 ### Recommender Systems:
+1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
+2. [post] [Introduction to recommender systems.](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada). Overview of some major recommendation algorithms. 
+3. [post] [Introduction to Recommender System.](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26) Approaches of collaborative filtering: NN and Matrix Factorization. 
+4. [book{chapter}] [An Introduction to Recommender Systems, Charu C. Aggarwal (chapter 1)](https://link.springer.com/chapter/10.1007/978-3-319-29659-3_1) 
+
+
