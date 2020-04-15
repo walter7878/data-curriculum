@@ -24,6 +24,7 @@
 4. [book{chapter}] [An Introduction to Recommender Systems, Charu C. Aggarwal (chapter 1)](https://link.springer.com/chapter/10.1007/978-3-319-29659-3_1) 
 5. [post] [Machine Learning for Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed). Part 1 (algorithms, evaluation and cold start).
 6. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques. 
+7. [py library] [Surprise](http://surpriselib.com/). Surprise is a Python scikit building and analyzing recommender systems that deal with explicit rating data.
 
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
