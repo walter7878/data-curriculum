@@ -18,7 +18,7 @@
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 3. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems.  
 
-## 05 DS and ML, more technical:
+## 05 (General) DS and ML, more technical:
 1. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! [Jure Leskovec](https://cs.stanford.edu/~jure/) is a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV). Youtube Playlist [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd).
 
 ## 99 Specific topics:
@@ -38,6 +38,10 @@
 13. [mooc{uni}] [Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/). From the MIT course "The Analytics Edge" (Sloan School of Management).
 14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/ 
 
+## AI Artificial Intelligence:
+1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/).
+
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
 2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
+
