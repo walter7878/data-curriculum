@@ -19,3 +19,6 @@
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
 2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
+
+## YY Specific topics:
+### Recommender Systems:
