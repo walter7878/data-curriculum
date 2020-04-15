@@ -30,6 +30,7 @@
 10. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques. 
 11. [py library] [Surprise](http://surpriselib.com/). Surprise is a Python scikit building and analyzing recommender systems that deal with explicit rating data.
 12. [yt] [Building Recommender Systems Using Python (Divya Sardana)](https://www.youtube.com/watch?v=39vJRxIPSxw). @PyDataSF2016. This tutorial is about learning to build a recommender system in Python. 
+13. [mooc{uni}] [Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/). From the MIT course "The Analytics Edge" (Sloan School of Management).
 
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
