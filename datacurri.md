@@ -16,6 +16,9 @@
 1. [yt] [Introduction to Machine Learning. Eric Grimson. MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/watch?v=h0e2HAPTGF4). Introductory session of the MIT60002 course. 
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 
+## 05 DS and ML, more technical:
+1. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! Jure Leskovec ir a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV).
+
 ## 99 Specific topics:
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
