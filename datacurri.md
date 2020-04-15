@@ -17,7 +17,7 @@
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 
 ## 05 DS and ML, more technical:
-1. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! Jure Leskovec ir a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV).
+1. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! [Jure Leskovec](https://cs.stanford.edu/~jure/) is a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV).
 
 ## 99 Specific topics:
 ### Recommender Systems:
