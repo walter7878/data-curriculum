@@ -26,5 +26,7 @@
 2. [post] [Introduction to recommender systems.](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada). Overview of some major recommendation algorithms. 
 3. [post] [Introduction to Recommender System.](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26) Approaches of collaborative filtering: NN and Matrix Factorization. 
 4. [book{chapter}] [An Introduction to Recommender Systems, Charu C. Aggarwal (chapter 1)](https://link.springer.com/chapter/10.1007/978-3-319-29659-3_1) 
+5. [post] [Machine Learning for Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed). Part 1 (algorithms, evaluation and cold start).
+6. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques. 
 
 
