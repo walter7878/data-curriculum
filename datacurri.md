@@ -38,6 +38,10 @@
 13. [mooc{uni}] [Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/). From the MIT course "The Analytics Edge" (Sloan School of Management).
 14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/ 
 
+### Natural Language Processing
+1. [mooc{uni} / yt] [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z). A true classic course! By [Christopher Manning](https://nlp.stanford.edu/manning/).
+
+
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
 2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
