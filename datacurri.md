@@ -39,7 +39,7 @@
 14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/ 
 
 ## AI Artificial Intelligence:
-1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/).
+1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
 
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
