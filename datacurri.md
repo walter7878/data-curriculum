@@ -1,5 +1,8 @@
 # Data Curriculum (WIP).
 
+## 01 Algorithms and CS Foundations
+1. [mooc{uni} / yt] [Advanced Algorithms (COMPSCI 224) Harvard Uni](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf). Course [web](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html). This course is intended for both graduate students and advanced undergraduate students satisfying some non trivial prerequisites.
+
 ## 02 Python:
 1. [mooc] [Complete Python Bootcamp: Go from zero to hero in Python 3. Udemy.](https://www.udemy.com/course/complete-python-bootcamp/) General Python training. Excellent, verified.
 2. [mooc] [Python for Data Science and Machine Learning Bootcamp. Udemy.](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) Focused in Data Science and Machine Learning applications. NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow, etc. Verified. 
