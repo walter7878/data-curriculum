@@ -1,12 +1,15 @@
 # Data Curriculum (WIP).
 
-## 01 Algorithms and CS Foundations
+## 01 Statistics and Probability
+1. [mooc{uni}] [Introduction to Probability MIT](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/). The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data.
+2. [mooc{uni}] [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/). This course introduces students to the modeling, quantification, and analysis of uncertainty. This is a full MIT course, will require high dedication.
+
+## 02 Algorithms and CS Foundations
 1. [mooc{uni} / yt] [Introduction to CS - Harvard OpenCourseWare](https://www.youtube.com/playlist?list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R) 
 2. [mooc{uni} / yt] [Introduction to Algorithms MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb). This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. 
 3. [mooc{uni} / yt] [Advanced Algorithms (COMPSCI 224) Harvard Uni](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf). Course [web](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html). This course is intended for both graduate students and advanced undergraduate students satisfying some non trivial prerequisites.
 
-
-## 02 Python:
+## 03 Python:
 1. [mooc] [Complete Python Bootcamp: Go from zero to hero in Python 3. Udemy.](https://www.udemy.com/course/complete-python-bootcamp/) General Python training. Excellent, verified.
 2. [mooc] [Python for Data Science and Machine Learning Bootcamp. Udemy.](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) Focused in Data Science and Machine Learning applications. NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow, etc. Verified. 
 3. [book] [Learning Python. Mark Lutz](https://amzn.to/37TeCIs). An amazing reference. The bible of Python. A comprehensive, in-depth introduction to the core Python language. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages.  
@@ -14,16 +17,15 @@
 5. [book] [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. Matthes](https://amzn.to/2PpwtAh). A straightforward introduction to the core of Python programming designed to provide a foundation in general programming concepts, Python fundamentals, and problem solving.
 6. [yt / mooc{uni}] [Intro to CS and programming in Python. MIT.](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA).6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. [Course Web](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
-
-## 03 SQL:
+## 04 SQL:
 1. [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified. 
 2. [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/) 
 
-## 04 Basics of DS and ML, not (too) technical:
+## 05 Basics of DS and ML, not (too) technical:
 1. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. This [Youtube Playlist](https://www.youtube.com/playlist?list=PLRJdqdXieSHMtmKxr4s78F7U88l-SawAj) contains a 2018 version of the videos. 
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 
-## 05 (General) DS and ML, more technical:
+## 06 (General) DS and ML, more technical:
 1. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! [Jure Leskovec](https://cs.stanford.edu/~jure/) is a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV). Youtube Playlist [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd).
 
 ## 99 Specific topics:
@@ -45,7 +47,6 @@
 
 ### Natural Language Processing
 1. [mooc{uni} / yt] [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z). A true classic course! By [Christopher Manning](https://nlp.stanford.edu/manning/).
-
 
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
