@@ -20,7 +20,7 @@
 2. [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/) 
 
 ## 04 Basics of DS and ML, not (too) technical:
-1. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems.  
+1. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. This [Youtube Playlist](https://www.youtube.com/playlist?list=PLRJdqdXieSHMtmKxr4s78F7U88l-SawAj) contains a 2018 version of the videos. 
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 
 ## 05 (General) DS and ML, more technical:
