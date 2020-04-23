@@ -53,6 +53,10 @@
 ### Natural Language Processing
 1. [mooc{uni} / yt] [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z). A true classic course! By [Christopher Manning](https://nlp.stanford.edu/manning/).
 
+## Visualization and BI
+1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
+2. [web] [Microsoft Power BI guided learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/). Start your learning journey with this sequenced collection of courses, and understand the extensive and powerful capabilities of Microsoft Power BI.
+
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
 2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
