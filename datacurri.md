@@ -12,6 +12,7 @@
 1. [mooc{uni} / yt] [Introduction to CS - Harvard OpenCourseWare](https://www.youtube.com/playlist?list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R) 
 2. [mooc{uni} / yt] [Introduction to Algorithms MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb). This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. 
 3. [mooc{uni} / yt] [Advanced Algorithms (COMPSCI 224) Harvard Uni](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf). Course [web](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html). This course is intended for both graduate students and advanced undergraduate students satisfying some non trivial prerequisites.
+4. [post] [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/). Great list of algorithms over graphs, with code in C, Java and Python. 
 
 ## 03 Python:
 1. [mooc] [Complete Python Bootcamp: Go from zero to hero in Python 3. Udemy.](https://www.udemy.com/course/complete-python-bootcamp/) General Python training. Excellent, verified.
