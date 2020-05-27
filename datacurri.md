@@ -51,8 +51,12 @@
 13. [mooc{uni}] [Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/). From the MIT course "The Analytics Edge" (Sloan School of Management).
 14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/ 
 
-### Natural Language Processing
+### [General] Natural Language Processing
 1. [mooc{uni} / yt] [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z). A true classic course! By [Christopher Manning](https://nlp.stanford.edu/manning/).
+
+### Knowledge Mining, Graphs and Topic Analytics
+1. [post] [Knowledge Graph – A Powerful Data Science Technique to Mine Information from Text (with Python code)](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)
+2. [post] [How Search Engines like Google Retrieve Results: Introduction to Information Extraction using Python and spaCy](https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/)
 
 ## Visualization and BI
 1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
