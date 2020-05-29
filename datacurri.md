@@ -58,6 +58,7 @@
 ### Knowledge Mining, Graphs and Topic Analytics
 1. [post] [Knowledge Graph – A Powerful Data Science Technique to Mine Information from Text (with Python code)](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)
 2. [post] [How Search Engines like Google Retrieve Results: Introduction to Information Extraction using Python and spaCy](https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/)
+3. [post] [Zero Shot Topic Classification](https://huggingface.co/zero-shot/). This demo shows how 🤗 Transformers can be used for zero-shot topic classification, the task of predicting a topic that the model has not been trained on.
 
 ## Visualization and BI
 1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
