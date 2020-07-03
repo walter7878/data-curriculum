@@ -67,8 +67,13 @@
 4. [post] [Topic Modeling with Gensim (Python)](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python). Latent Dirichlet Allocation (LDA) from Gensim package along with the Mallet’s implementation (via Gensim). Very nice tutorial. 
 
 ## Visualization and BI
+### Power BI
 1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
 2. [web] [Microsoft Power BI guided learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/). Start your learning journey with this sequenced collection of courses, and understand the extensive and powerful capabilities of Microsoft Power BI.
+3. [yt] [Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰](https://www.youtube.com/watch?v=AGrl-H87pRU). This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard
+4. [yt] [Power BI Tutorial for Beginners](https://www.youtube.com/watch?v=AuYzsfXKkbM)
+5. [yt] [Power BI Full Course - Learn Power BI in 4 Hours ](https://www.youtube.com/watch?v=3u7MQz1EyPY). This Edureka video on the "Power BI Full Course" will help you understand and learn Power BI in detail. This Power BI Tutorial is ideal for both beginners as well as professionals who want to master up their Power BI concepts. 
+
 
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
