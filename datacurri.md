@@ -41,6 +41,9 @@
 3. [web] [Data Analysis in Python](http://www.data-analysis-in-python.org/). This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis
 
 ## 99 Specific topics:
+### Time series / Forecasting:
+1. [repo] [Forecasting Best Practices](https://github.com/microsoft/forecasting). This repository provides examples and best practice guidelines for building forecasting solutions. The goal of this repository is to build a comprehensive set of tools and examples that leverage recent advances in forecasting algorithms to build solutions and operationalize them. By Microsoft!
+
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
 2. [yt] [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs). Simple introduction video.
