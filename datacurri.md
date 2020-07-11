@@ -44,6 +44,9 @@
 ### Time series / Forecasting:
 1. [repo] [Forecasting Best Practices](https://github.com/microsoft/forecasting). This repository provides examples and best practice guidelines for building forecasting solutions. The goal of this repository is to build a comprehensive set of tools and examples that leverage recent advances in forecasting algorithms to build solutions and operationalize them. By Microsoft!
 2. [repo/library] [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet). Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. 
+3. [repo/library] [GluonTS - Probabilistic Time Series Modeling in Python](https://github.com/awslabs/gluon-ts). From Amazon! GluonTS provides utilities for loading and iterating over time series datasets, state of the art models ready to be trained, and building blocks to define your own models and quickly experiment with different solutions.
+4. [repo/library] [sktime](https://github.com/alan-turing-institute/sktime). sktime is a Python toolbox for machine learning with time series. We currently support: Forecasting, Time series classification, Time series regression. sktime provides dedicated time series algorithms and scikit-learn compatible tools for building, tuning, and evaluating composite models. From the Alan Turing Institute.
+
 
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
