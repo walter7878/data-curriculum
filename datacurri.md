@@ -66,6 +66,9 @@
 3. [post] [Zero Shot Topic Classification](https://huggingface.co/zero-shot/). This demo shows how 🤗 Transformers can be used for zero-shot topic classification, the task of predicting a topic that the model has not been trained on.
 4. [post] [Topic Modeling with Gensim (Python)](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python). Latent Dirichlet Allocation (LDA) from Gensim package along with the Mallet’s implementation (via Gensim). Very nice tutorial. 
 
+### Image reco, object detection and segmentation
+1. [TensorFlow 2 meets the Object Detection API](https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html). 
+
 ## Visualization and BI
 ### Power BI
 1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
@@ -74,12 +77,14 @@
 4. [yt] [Power BI Tutorial for Beginners](https://www.youtube.com/watch?v=AuYzsfXKkbM)
 5. [yt] [Power BI Full Course - Learn Power BI in 4 Hours ](https://www.youtube.com/watch?v=3u7MQz1EyPY). This Edureka video on the "Power BI Full Course" will help you understand and learn Power BI in detail. This Power BI Tutorial is ideal for both beginners as well as professionals who want to master up their Power BI concepts. 
 
-
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
 2. [paper] [On the Measure of Intelligence, François Chollet](https://arxiv.org/abs/1911.01547). A fairly lengthy paper on defining & measuring intelligence, as well as a new AI evaluation dataset, the "Abstraction and Reasoning Corpus".
+3. [yt] [On the limitations and future of deep learning and Chollet's recent “On the measure of intelligence" paper](https://youtu.be/GpWLZUbPhr0)
 
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
+
+
 
 
