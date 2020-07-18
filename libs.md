@@ -15,6 +15,13 @@
 
 ## Causal inference
 * [CausalML](https://github.com/uber/causalml). Causal ML is a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research. It provides a standard interface that allows user to estimate the Conditional Average Treatment Effect (CATE) or Individual Treatment Effect (ITE) from experimental or observational data. Essentially, it estimates the causal impact of intervention T on outcome Y for users with observed features X, without strong assumptions on the model form.
+* [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox). Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
+* [CausalNex](https://github.com/quantumblacklabs/causalnex). A Python library that helps data scientists to infer causation rather than observing correlation.
+
+## Social Media APIs, scrappers, etc.
+* [twitter](https://github.com/sixohsix/twitter). The Minimalist Twitter API for Python is a Python API for Twitter, everyone's favorite Web 2.0 Facebook-style status updater for people on the go. Also included is a Twitter command-line tool for getting your friends' tweets and setting your own tweet from the safety and security of your favorite shell and an IRC bot that can announce Twitter updates to an IRC channel.
+* [tweepy](https://github.com/tweepy/tweepy). Classic twitter api adapter.
+* [twfollowbot](https://github.com/rhiever/TwitterFollowBot). A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 
 
 ## Topic Extraction and Knowledge Mining
