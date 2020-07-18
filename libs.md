@@ -15,6 +15,7 @@
 
 ## Causal inference
 * [DoWhy](https://github.com/microsoft/dowhy). From Microsoft. DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+** [Docs](https://microsoft.github.io/dowhy/).
 * [Expan](https://github.com/zalando/expan). From Zalando. A/B tests (a.k.a. Randomized Controlled Trials or Experiments) have been widely applied in different industries to optimize business processes and user experience. ExpAn (Experiment Analysis) is a Python library developed for the statistical analysis of such experiments and to standardise the data structures used.
 * [CausalML](https://github.com/uber/causalml). Causal ML is a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms based on recent research. It provides a standard interface that allows user to estimate the Conditional Average Treatment Effect (CATE) or Individual Treatment Effect (ITE) from experimental or observational data. Essentially, it estimates the causal impact of intervention T on outcome Y for users with observed features X, without strong assumptions on the model form.
 * [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox). Package for causal inference in graphs and in the pairwise settings. Tools for graph structure recovery and dependencies are included.
