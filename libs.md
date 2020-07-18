@@ -1,4 +1,4 @@
-# Libraries, packages and other [usbale] struff (WIP).
+# Libraries, packages and other [usbale] stuff (WIP).
 
 
 ## Time series
