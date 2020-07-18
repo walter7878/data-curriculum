@@ -2,69 +2,69 @@
 
 ## 01 Statistics and Probability
 1. [post] [Probability and Statistics refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics#). Ultra-light refresher of basic concepts.
-2. [mooc{uni}] [Introduction to Probability](https://www.edx.org/es/course/introduction-to-probability). Probability and statistics help to bring logic to a world replete with randomness and uncertainty. This course will give you tools needed to understand data, science, philosophy, engineering, economics, and finance. Based on [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) from Harvard Uni. Youtube [playlist](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). 
+2. [mooc{uni}] [Introduction to Probability](https://www.edx.org/es/course/introduction-to-probability). Probability and statistics help to bring logic to a world replete with randomness and uncertainty. This course will give you tools needed to understand data, science, philosophy, engineering, economics, and finance. Based on [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) from Harvard Uni. Youtube [playlist](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo).
 2. [mooc] [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning). This is an introductory-level course in supervised learning, with a focus on regression and classification methods. Not math-heavy. Covers the material of the classic textbook [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
 1. [mooc{uni}] [Introduction to Probability MIT](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/). The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data.
 2. [mooc{uni}] [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/). This course introduces students to the modeling, quantification, and analysis of uncertainty. This is a full MIT course, will require high dedication.
 6. [uni] [data-8 | UC Berkeley Foundations of Data Science](http://data8.org/) The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. [Spring 2020 materials](http://data8.org/sp20/). [2017 Youtube Playlist](https://www.youtube.com/playlist?list=PLPHXc20GewP-RFBvMxIqfocE_7xLLQscN)
 
 ## 02 Algorithms and CS Foundations
-1. [mooc{uni} / yt] [Introduction to CS - Harvard OpenCourseWare](https://www.youtube.com/playlist?list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R) 
-2. [mooc{uni} / yt] [Introduction to Algorithms MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb). This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. 
+1. [mooc{uni} / yt] [Introduction to CS - Harvard OpenCourseWare](https://www.youtube.com/playlist?list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
+2. [mooc{uni} / yt] [Introduction to Algorithms MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb). This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems.
 3. [mooc{uni} / yt] [Advanced Algorithms (COMPSCI 224) Harvard Uni](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf). Course [web](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html). This course is intended for both graduate students and advanced undergraduate students satisfying some non trivial prerequisites.
-4. [post] [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/). Great list of algorithms over graphs, with code in C, Java and Python. 
+4. [post] [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/). Great list of algorithms over graphs, with code in C, Java and Python.
 
 ## 03 Python:
 1. [mooc] [Complete Python Bootcamp: Go from zero to hero in Python 3. Udemy.](https://www.udemy.com/course/complete-python-bootcamp/) General Python training. Excellent, verified.
-2. [mooc] [Python for Data Science and Machine Learning Bootcamp. Udemy.](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) Focused in Data Science and Machine Learning applications. NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow, etc. Verified. 
+2. [mooc] [Python for Data Science and Machine Learning Bootcamp. Udemy.](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) Focused in Data Science and Machine Learning applications. NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow, etc. Verified.
 3. [book] [Learning Python. Mark Lutz](https://amzn.to/37TeCIs). An amazing reference. The bible of Python. A comprehensive, in-depth introduction to the core Python language. It’s an ideal way to begin, whether you’re new to programming or a professional developer versed in other languages.  
 4. [yt] [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw). Amazing material. 4.20 hours, full hands on. For absolute beginners. Verified.
 5. [book] [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. Matthes](https://amzn.to/2PpwtAh). A straightforward introduction to the core of Python programming designed to provide a foundation in general programming concepts, Python fundamentals, and problem solving.
 6. [yt / mooc{uni}] [Intro to CS and programming in Python. MIT.](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA).6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. [Course Web](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
 
 ## 04 SQL:
-1. [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified. 
-2. [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/) 
+1. [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified.
+2. [mooc] [The Complete SQL Bootcamp. Udemy.](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
 ## 05 Basics of DS and ML, not (too) technical:
-1. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. This [Youtube Playlist](https://www.youtube.com/playlist?list=PLRJdqdXieSHMtmKxr4s78F7U88l-SawAj) contains a 2018 version of the videos. 
+1. [mooc{uni}] [Introduction to Computational Thinking and Data Science. MIT.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/). 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. This [Youtube Playlist](https://www.youtube.com/playlist?list=PLRJdqdXieSHMtmKxr4s78F7U88l-SawAj) contains a 2018 version of the videos.
 2. [yt] [Machine Learning Zero to Hero (Google I/O'19). Speaker(s): Laurence Moroney and Karmel Allison](https://www.youtube.com/watch?v=VwVg9jCtqaU). This is a talk for people who know code, but who don’t necessarily know machine learning.
 3. [mooc] [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning). This is an introductory-level course in supervised learning, with a focus on regression and classification methods. Not math-heavy. Covers the material of the classic textbook [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/). Note: also in the statistics materials.
 
 ## 06 (General) DS and ML, more technical:
-1. [mooc{uni} / yt] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). Possibly one of (or THE) best general ML intro class. This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. [Course website](http://cs229.stanford.edu/). 
+1. [mooc{uni} / yt] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). Possibly one of (or THE) best general ML intro class. This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. [Course website](http://cs229.stanford.edu/).
 2. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! [Jure Leskovec](https://cs.stanford.edu/~jure/) is a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV). Youtube Playlist [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd).
 
 ## 07 Data Analysis (or stuff for Analysts, not hardcore DS or ML):
-1. [yt] [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8). Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included! 
-2. [yt] [Data Analysis with Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4). "In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data." 
+1. [yt] [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8). Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included!
+2. [yt] [Data Analysis with Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4). "In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data."
 3. [web] [Data Analysis in Python](http://www.data-analysis-in-python.org/). This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis
 
 ## 99 Specific topics:
 ### Time series / Forecasting:
 1. [repo] [Forecasting Best Practices](https://github.com/microsoft/forecasting). This repository provides examples and best practice guidelines for building forecasting solutions. The goal of this repository is to build a comprehensive set of tools and examples that leverage recent advances in forecasting algorithms to build solutions and operationalize them. By Microsoft!
-2. [repo/library] [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet). Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. 
+2. [repo/library] [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet). Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data.
 3. [repo/library] [GluonTS - Probabilistic Time Series Modeling in Python](https://github.com/awslabs/gluon-ts). From Amazon! GluonTS provides utilities for loading and iterating over time series datasets, state of the art models ready to be trained, and building blocks to define your own models and quickly experiment with different solutions.
 4. [repo/library] [sktime](https://github.com/alan-turing-institute/sktime). sktime is a Python toolbox for machine learning with time series. We currently support: Forecasting, Time series classification, Time series regression. sktime provides dedicated time series algorithms and scikit-learn compatible tools for building, tuning, and evaluating composite models. From the Alan Turing Institute.
-5. [repo/library] [Pmdarima](https://github.com/alkaline-ml/pmdarima). Pmdarima (originally pyramid-arima, for the anagram of 'py' + 'arima') is a statistical library designed to fill the void in Python's time series analysis capabilities. This includes: The equivalent of R's auto.arima functionality. 
+5. [repo/library] [Pmdarima](https://github.com/alkaline-ml/pmdarima). Pmdarima (originally pyramid-arima, for the anagram of 'py' + 'arima') is a statistical library designed to fill the void in Python's time series analysis capabilities. This includes: The equivalent of R's auto.arima functionality.
 A collection of statistical tests of stationarity and seasonality. Time series utilities, such as differencing and inverse differencing. Numerous endogenous and exogenous transformers and featurizers, including Box-Cox and Fourier transformations. Seasonal time series decompositions. Cross-validation utilities. A rich collection of built-in time series datasets for prototyping and examples. Scikit-learn-esque pipelines to consolidate your estimators and promote productionization.
 
 
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
 2. [yt] [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs). Simple introduction video.
-3. [post] [Introduction to recommender systems.](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada). Overview of some major recommendation algorithms. 
-4. [post] [Introduction to Recommender System.](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26) Approaches of collaborative filtering: NN and Matrix Factorization. 
-5. [book{chapter}] [An Introduction to Recommender Systems, Charu C. Aggarwal (chapter 1)](https://link.springer.com/chapter/10.1007/978-3-319-29659-3_1) 
+3. [post] [Introduction to recommender systems.](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada). Overview of some major recommendation algorithms.
+4. [post] [Introduction to Recommender System.](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26) Approaches of collaborative filtering: NN and Matrix Factorization.
+5. [book{chapter}] [An Introduction to Recommender Systems, Charu C. Aggarwal (chapter 1)](https://link.springer.com/chapter/10.1007/978-3-319-29659-3_1)
 6. [yt] [Recommender Systems | Problem formulation (Andrew Ng)](https://www.youtube.com/watch?v=giIXNoiqO_U). Super recommended videos. Andrew Ng always clear! (3 parts)
-7. [yt] [Recommender Systems | Content Based Recommendations (Andrew Ng)](https://www.youtube.com/watch?v=9siFuMMHNIA). 
+7. [yt] [Recommender Systems | Content Based Recommendations (Andrew Ng)](https://www.youtube.com/watch?v=9siFuMMHNIA).
 8. [yt] [Recommender Systems | Collaborative Filtering (Andrew Ng)](https://www.youtube.com/watch?v=9AP-DgFBNP4).
 9. [post] [Machine Learning for Recommender systems](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed). Part 1 (algorithms, evaluation and cold start).
-10. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques. 
+10. [post{Kaggle}] [Recommender Systems in Python 101](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101). This notebook is a practical introduction to the main Recommender System (RecSys) techniques.
 11. [py library] [Surprise](http://surpriselib.com/). Surprise is a Python scikit building and analyzing recommender systems that deal with explicit rating data.
-12. [yt] [Building Recommender Systems Using Python (Divya Sardana)](https://www.youtube.com/watch?v=39vJRxIPSxw). @PyDataSF2016. This tutorial is about learning to build a recommender system in Python. 
+12. [yt] [Building Recommender Systems Using Python (Divya Sardana)](https://www.youtube.com/watch?v=39vJRxIPSxw). @PyDataSF2016. This tutorial is about learning to build a recommender system in Python.
 13. [mooc{uni}] [Recommendations Worth a Million: An Introduction to Clustering](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/). From the MIT course "The Analytics Edge" (Sloan School of Management).
-14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/ 
+14. [mooc] [Recommendation Systems course](https://developers.google.com/machine-learning/recommendation). From the Machine Learning Crash Course @ https://developers.google.com/
 
 ### [General] Natural Language Processing
 1. [mooc{uni} / yt] [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z). A true classic course! By [Christopher Manning](https://nlp.stanford.edu/manning/).
@@ -73,18 +73,18 @@ A collection of statistical tests of stationarity and seasonality. Time series u
 1. [post] [Knowledge Graph – A Powerful Data Science Technique to Mine Information from Text (with Python code)](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/)
 2. [post] [How Search Engines like Google Retrieve Results: Introduction to Information Extraction using Python and spaCy](https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/)
 3. [post] [Zero Shot Topic Classification](https://huggingface.co/zero-shot/). This demo shows how 🤗 Transformers can be used for zero-shot topic classification, the task of predicting a topic that the model has not been trained on.
-4. [post] [Topic Modeling with Gensim (Python)](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python). Latent Dirichlet Allocation (LDA) from Gensim package along with the Mallet’s implementation (via Gensim). Very nice tutorial. 
+4. [post] [Topic Modeling with Gensim (Python)](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python). Latent Dirichlet Allocation (LDA) from Gensim package along with the Mallet’s implementation (via Gensim). Very nice tutorial.
 
 ### Image reco, object detection and segmentation
-1. [TensorFlow 2 meets the Object Detection API](https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html). 
+1. [TensorFlow 2 meets the Object Detection API](https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html).
 
 ## Visualization and BI
 ### Power BI
-1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow. 
+1. [mooc] [Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2). Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data. Official Microsoft learning hosted by EDX, free to follow.
 2. [web] [Microsoft Power BI guided learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/). Start your learning journey with this sequenced collection of courses, and understand the extensive and powerful capabilities of Microsoft Power BI.
 3. [yt] [Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰](https://www.youtube.com/watch?v=AGrl-H87pRU). This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard
 4. [yt] [Power BI Tutorial for Beginners](https://www.youtube.com/watch?v=AuYzsfXKkbM)
-5. [yt] [Power BI Full Course - Learn Power BI in 4 Hours ](https://www.youtube.com/watch?v=3u7MQz1EyPY). This Edureka video on the "Power BI Full Course" will help you understand and learn Power BI in detail. This Power BI Tutorial is ideal for both beginners as well as professionals who want to master up their Power BI concepts. 
+5. [yt] [Power BI Full Course - Learn Power BI in 4 Hours ](https://www.youtube.com/watch?v=3u7MQz1EyPY). This Edureka video on the "Power BI Full Course" will help you understand and learn Power BI in detail. This Power BI Tutorial is ideal for both beginners as well as professionals who want to master up their Power BI concepts.
 
 ## AI Artificial Intelligence:
 1. [mooc{uni} / yt] [Stanford CS221 Artificial Intelligence Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX). Recommended. [Course website](https://stanford-cs221.github.io/autumn2019/). By Prof. [Percy Liang](https://cs.stanford.edu/~pliang/)
@@ -92,8 +92,6 @@ A collection of statistical tests of stationarity and seasonality. Time series u
 3. [yt] [On the limitations and future of deep learning and Chollet's recent “On the measure of intelligence" paper](https://youtu.be/GpWLZUbPhr0)
 
 ## XX Other stuff:
-1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of. 
+1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of.
 
-
-
-
+ 
