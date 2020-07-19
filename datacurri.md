@@ -40,6 +40,16 @@
 2. [yt] [Data Analysis with Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4). "In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data."
 3. [web] [Data Analysis in Python](http://www.data-analysis-in-python.org/). This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis
 
+## 08 Causality
+1. [yt] [Lectures on Causality: Jonas Peters, Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo). Great material. MIT Machine learning expert Jonas Peters of the University of Copenhagen presents “Four Lectures on Causality”. 
+    * [part 2](https://www.youtube.com/watch?v=bHOGP5o3Vu0).
+    * [part 3](https://www.youtube.com/watch?v=Jp4UcgpVA2I).
+    * [part 4](https://www.youtube.com/watch?v=ytnr_2dyyMU).
+2. [yt] [Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI | AI Podcas](https://www.youtube.com/watch?v=pEBI0vF45ic).
+3. [yt] [Ferenc Huszár Causal Inference in Everyday Machine Learning Part 1](https://www.youtube.com/watch?v=HOgx_SBBzn0)
+    * [part 2](https://www.youtube.com/watch?v=_RtxTpOb8e4)
+    * [part 3](https://www.youtube.com/watch?v=evmGGusk6gg)
+
 ## 99 Specific topics:
 
 
