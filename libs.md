@@ -29,9 +29,15 @@
 * [twfollowbot](https://github.com/rhiever/TwitterFollowBot). A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 
 
-## Topic Extraction and Knowledge Mining
+## Topic extraction & Knowledge Mining
 * [PYthon Automated Term Extraction](https://github.com/kevinlu1248/pyate). Python implementation of term extraction algorithms such as C-Value, Basic, Combo Basic, Weirdness and Term Extractor using spaCy POS tagging.
+
+
+## Graph and networks
 * [Graphbrain](https://github.com/graphbrain/graphbrain). Graphbrain is an Artificial Intelligence open-source software library and scientific research tool. Its aim is to facilitate automated meaning extraction and text understanding, as well as the exploration and inference of knowledge. [Docs here](https://graphbrain.net/overview/hypergraph.html).
+* [NetworkX](https://networkx.github.io/). NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [Github](https://github.com/networkx/networkx).
+
+
 
 ## Scalability and Parallelization
 * [Pandarallel](https://github.com/nalepae/pandarallel). A simple and efficient tool to parallelize Pandas operations on all available CPUs.
