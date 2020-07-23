@@ -30,6 +30,7 @@
 * [twfollowbot](https://github.com/rhiever/TwitterFollowBot). A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 
 
+
 ## Topic extraction & Knowledge Mining
 * [PYthon Automated Term Extraction](https://github.com/kevinlu1248/pyate). Python implementation of term extraction algorithms such as C-Value, Basic, Combo Basic, Weirdness and Term Extractor using spaCy POS tagging.
 
@@ -37,7 +38,6 @@
 ## Graph and networks
 * [Graphbrain](https://github.com/graphbrain/graphbrain). Graphbrain is an Artificial Intelligence open-source software library and scientific research tool. Its aim is to facilitate automated meaning extraction and text understanding, as well as the exploration and inference of knowledge. [Docs here](https://graphbrain.net/overview/hypergraph.html).
 * [NetworkX](https://networkx.github.io/). NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [Github](https://github.com/networkx/networkx).
-
 
 
 ## Scalability and Parallelization
@@ -52,6 +52,7 @@
 ## Datasets (English, multilang)
 * [NLP Datasets List](https://github.com/niderhoff/nlp-datasets/blob/master/README.md). Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP).
 * [10.000 most used words](https://github.com/first20hours/google-10000-english).
+* [LazyNLP](https://github.com/chiphuyen/lazynlp). A straightforward library that allows you to crawl, clean up, and deduplicate webpages to create massive monolingual datasets. Using this library, you should be able to create datasets larger than the one used by OpenAI for GPT-2.
 
 
 # Data Preparation, wrangling and exploration
@@ -60,7 +61,9 @@
 
 ## General ML and ML tools
 * [Libra. 1 line ML models.](https://github.com/Palashio/libra) Libra automates the end-to-end machine learning process in just one line of code. It is built for both non-technical users and software professionals of all kinds.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen/). (Model 2 Code Generator) - is a lightweight library which provides an easy way to transpile trained statistical models into a native code (Python, C, Java, Go, JavaScript, Visual Basic, C#, PowerShell, R, PHP, Dart, Haskell, Ruby).
 
 
 ## XX Other stuff
 * ML toolbox list https://amitness.com/toolbox/
+
