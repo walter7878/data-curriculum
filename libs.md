@@ -11,6 +11,7 @@
 * [pyts](https://github.com/johannfaouzi/pyts). A Python package for time series classification.
 * [CESIUM](https://github.com/cesium-ml/cesium). Open-Source Platform for Time Series Inference.
 * [AtsPy](https://github.com/firmai/atspy). Automated Time Series Models in Python (AtsPy). Easily develop state of the art time series models to forecast univariate data series. Simply load your data and select which models you want to test. This is the largest repository of automated structural and machine learning time series models.
+* [Stumpy](https://github.com/TDAmeritrade/stumpy). STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.
 
 
 ## Causal inference
