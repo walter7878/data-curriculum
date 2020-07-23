@@ -38,6 +38,8 @@
 ## Graph and networks
 * [Graphbrain](https://github.com/graphbrain/graphbrain). Graphbrain is an Artificial Intelligence open-source software library and scientific research tool. Its aim is to facilitate automated meaning extraction and text understanding, as well as the exploration and inference of knowledge. [Docs here](https://graphbrain.net/overview/hypergraph.html).
 * [NetworkX](https://networkx.github.io/). NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. [Github](https://github.com/networkx/networkx).
+* [NERtwork](https://github.com/brandontlocke/NERtwork). NERtwork is a collection of scripts to help you create a network graph of co-occurring named entities using open source tools. This is done by using Stanford Named Entity Recognizer to identify named entities in the documents, then using NetworkX to create a bipartite projected network and exporting the node and edge lists for use in network visualization tools.
+
 
 
 ## Scalability and Parallelization
