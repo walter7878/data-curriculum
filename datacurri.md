@@ -35,12 +35,17 @@
 1. [mooc{uni} / yt] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). Possibly one of (or THE) best general ML intro class. This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. [Course website](http://cs229.stanford.edu/).
 2. [mooc{uni} / yt] [CS246: Mining Massive Data Sets. Stanford University](http://web.stanford.edu/class/cs246/). Exceptional material, highly recommended. Very demanding also, but serious stuff! [Jure Leskovec](https://cs.stanford.edu/~jure/) is a real master. [External web to the course PDF book here.](http://www.mmds.org/). [Complete sessions on Youtube here (2018)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV). Youtube Playlist [here](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd).
 
-## 07 Data Analysis (or stuff for Analysts, not hardcore DS or ML):
+## 07 ML and DS Notebooks & Repos
+1. [repo] [Bascis](https://github.com/madewithml/basics). Learn ML with clean code, simplified math and illustrative visuals.
+2. [repo] [Machine Learning Notebooks](https://github.com/ageron/handson-ml). This project aims at teaching you the fundamentals of Machine Learning in python. It contains the example code and solutions to the exercises in my O'Reilly book Hands-on Machine Learning with Scikit-Learn and TensorFlow.
+3. [repo] [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+
+## 08 Data Analysis (or stuff for Analysts, not hardcore DS or ML):
 1. [yt] [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8). Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included!
 2. [yt] [Data Analysis with Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4). "In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data."
 3. [web] [Data Analysis in Python](http://www.data-analysis-in-python.org/). This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis
 
-## 08 Causality
+## 09 Causality
 1. [yt] [Lectures on Causality: Jonas Peters, Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo). Great material. MIT Machine learning expert Jonas Peters of the University of Copenhagen presents “Four Lectures on Causality”. 
     * [part 2](https://www.youtube.com/watch?v=bHOGP5o3Vu0).
     * [part 3](https://www.youtube.com/watch?v=Jp4UcgpVA2I).
