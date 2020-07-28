@@ -39,6 +39,9 @@
 1. [repo] [Bascis](https://github.com/madewithml/basics). Learn ML with clean code, simplified math and illustrative visuals.
 2. [repo] [Machine Learning Notebooks](https://github.com/ageron/handson-ml). This project aims at teaching you the fundamentals of Machine Learning in python. It contains the example code and solutions to the exercises in my O'Reilly book Hands-on Machine Learning with Scikit-Learn and TensorFlow.
 3. [repo] [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+4. [repo] [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch).  Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+5. [repo] [Dive into ML](https://github.com/hangtwenty/dive-into-machine-learning). "I learned Python by hacking first, and getting serious later. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
+
 
 ## 08 Data Analysis (or stuff for Analysts, not hardcore DS or ML):
 1. [yt] [Data Analysis with Python](https://www.youtube.com/watch?v=r-uOLxNrNk8). Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included!
