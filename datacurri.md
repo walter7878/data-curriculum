@@ -21,6 +21,7 @@
 4. [yt] [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw). Amazing material. 4.20 hours, full hands on. For absolute beginners. Verified.
 5. [book] [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. Matthes](https://amzn.to/2PpwtAh). A straightforward introduction to the core of Python programming designed to provide a foundation in general programming concepts, Python fundamentals, and problem solving.
 6. [yt / mooc{uni}] [Intro to CS and programming in Python. MIT.](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA).6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. [Course Web](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+7. [yt] [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc). Excellent material. 6.14 hours of training, for beginners. 
 
 ## 04 SQL:
 1. [yt] [SQL Tutorial - Full Database Course for Beginners. freeCodeCamp, Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY). Amazng intro. Really hands-on. Focused in MySql. Verified.
