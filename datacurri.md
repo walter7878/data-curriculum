@@ -63,6 +63,9 @@
 
 ## 99 Specific topics:
 
+### Marketing Mix Modelling (and model/feature selection in linear models in general)
+1. [post] [Python/Stan implementation for MMM](https://towardsdatascience.com/python-stan-implementation-of-multiplicative-marketing-mix-model-with-deep-dive-into-adstock-a7320865b334). Based on [this paper from Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf). Code in [this GitHug repo](https://github.com/sibylhe/mmm_stan).
+
 
 ### Recommender Systems:
 1. [wiki] [Recommender system](https://en.wikipedia.org/wiki/Recommender_system). Very complete entry, good starting point.
