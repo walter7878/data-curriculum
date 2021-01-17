@@ -13,6 +13,8 @@
 * [AtsPy](https://github.com/firmai/atspy). Automated Time Series Models in Python (AtsPy). Easily develop state of the art time series models to forecast univariate data series. Simply load your data and select which models you want to test. This is the largest repository of automated structural and machine learning time series models.
 * [Stumpy](https://github.com/TDAmeritrade/stumpy). STUMPY is a powerful and scalable library that efficiently computes something called the matrix profile, which can be used for a variety of time series data mining tasks.
 
+## Recommender Systems
+* [Surprise](https://github.com/NicolasHug/Surprise). Surprise is a Python scikit for building and analyzing recommender systems that deal with explicit rating data.
 
 ## Causal inference
 * [DoWhy](https://github.com/microsoft/dowhy). From Microsoft. DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
