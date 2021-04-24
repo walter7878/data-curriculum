@@ -4,6 +4,6 @@
 
 ---
 
-## 1. General Intros and MOOCs
+## 1 General Intros and MOOCs
 
-### 1. 1. [Probabilistic Graphical Models Specialization (Coursera)](https://www.coursera.org/specializations/probabilistic-graphical-models) 
+### 1.1 [Probabilistic Graphical Models Specialization (Coursera)](https://www.coursera.org/specializations/probabilistic-graphical-models) 
