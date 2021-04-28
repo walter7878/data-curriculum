@@ -23,3 +23,12 @@
 ## 3. University Courses
 
 ### 3.1 [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/). This are de MIT sessions recorded. Very good material but not designed as MOOC. For a more remote-learning approach, see item 1.3
+
+## 4. Articles and posts
+
+## A/B Testing
+
+### 4.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+### 4.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
+### 4.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+### 4.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
