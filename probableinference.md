@@ -18,6 +18,7 @@
 ### 2.1. [Bayesian A/B Testing - Marc Garcia](https://www.youtube.com/watch?v=UxEFAkDlkiA). PyData talk. 
 ### 2.2. [Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck](https://www.youtube.com/watch?v=M-kBB2I4QlE). Talk by CF at Montreal Python. 
 ### 2.3. [John Salvatier: Bayesian inference with PyMC 3](https://www.youtube.com/watch?v=VVbJ4jEoOfU). From PyData Seattle 2015.
+### 2.4. [Nora Neumann - Usable A/B testing – A Bayesian approach](https://www.youtube.com/watch?v=PSqtcNZDj4A).
 
 
 ## 3. University Courses
