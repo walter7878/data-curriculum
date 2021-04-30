@@ -27,9 +27,13 @@
 
 ## 4. Articles and posts
 
-## A/B Testing
+## 4.1 A/B Testing
 
-### 4.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
-### 4.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
-### 4.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
-### 4.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+### 4.1.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+### 4.2.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
+### 4.3.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+### 4.4.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+
+## 4.2 MCMC
+
+### 4.2.1 [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
