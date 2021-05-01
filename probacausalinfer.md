@@ -11,6 +11,8 @@
 ### 1.3. [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW). EDX verdsion of the MIT 6.041, much more dense (see item 3.1 below)
 ### 1.4. [Bayesian Statistics: From Concept to Data Analysis (UC SC / Coursera)](https://www.coursera.org/learn/bayesian-statistics). Very gentle introduction to Bayesian Stats. This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data.
 ### 1.5. [Data Science in Real Life (Coursera / Johns Hopkins)](https://www.coursera.org/learn/real-life-data-science#syllabus). In some units, nice high level material on experiment design, causality, among other topics. [Course Promo in YT](https://www.youtube.com/watch?v=9BIYmw5wnBI).
+### 1.6. [Measuting Causal Effects in the Social Sciences](https://www.coursera.org/learn/causal-effects). 
+### 1.7. [A Crash Course in Causality: Inferring Causal Effects from Observational Data (Coursera / Penn)](https://www.coursera.org/learn/crash-course-in-causality). "We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!"
 
 
 
