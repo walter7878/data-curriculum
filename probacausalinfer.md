@@ -1,4 +1,4 @@
-# Welcome to Probable Inference .md :-) 
+# Welcome to Proba Causal Infer dot M D :-) 
 
 ### Resources to learn Experiment Design, A/B testing, Bayes applications to Decision Science, Graphical Modelling, MCMC and probabilistic programming among other -related- topics.
 
