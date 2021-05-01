@@ -15,6 +15,7 @@
 ### 1.7. [A Crash Course in Causality: Inferring Causal Effects from Observational Data (Coursera / Penn)](https://www.coursera.org/learn/crash-course-in-causality). "We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!"
 ### 1.8. [Probability and Statistics: To p or not to p? (Coursera / U of London)](https://www.coursera.org/learn/probability-statistics#syllabus). On the basic side, but ok in case you need a refresher on the fundamentals. 
 ### 1.9. [A/B Testing by Google Online Experiment Design and Analysis](https://www.udacity.com/course/ab-testing--ud257). This course will cover the design and analysis of A/B tests, also known as split tests, which are online experiments used to test potential improvements to a website or mobile application. Two versions of the website are shown to different users - usually the existing website and a potential change. Then, the results are analyzed to determine whether the change is an improvement worth launching. 
+### 1.10 [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/course/bayesian-machine-learning-in-python-ab-testing/) 
 
 
 
@@ -35,9 +36,13 @@
 ## 4.1 A/B Testing
 
 ### 4.1.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
-### 4.2.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
-### 4.3.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
-### 4.4.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+### 4.1.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
+### 4.1.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+### 4.1.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+### 4.1.5 [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
+### 4.1.6 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
+### 4.1.7 [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
+
 
 ## 4.2 MCMC
 
