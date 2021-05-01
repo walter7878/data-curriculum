@@ -14,6 +14,7 @@
 ### 1.6. [Measuting Causal Effects in the Social Sciences](https://www.coursera.org/learn/causal-effects). 
 ### 1.7. [A Crash Course in Causality: Inferring Causal Effects from Observational Data (Coursera / Penn)](https://www.coursera.org/learn/crash-course-in-causality). "We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!"
 ### 1.8. [Probability and Statistics: To p or not to p? (Coursera / U of London)](https://www.coursera.org/learn/probability-statistics#syllabus). On the basic side, but ok in case you need a refresher on the fundamentals. 
+### 1.9. [A/B Testing by Google Online Experiment Design and Analysis](https://www.udacity.com/course/ab-testing--ud257). This course will cover the design and analysis of A/B tests, also known as split tests, which are online experiments used to test potential improvements to a website or mobile application. Two versions of the website are shown to different users - usually the existing website and a potential change. Then, the results are analyzed to determine whether the change is an improvement worth launching. 
 
 
 
