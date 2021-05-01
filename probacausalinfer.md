@@ -13,6 +13,7 @@
 ### 1.5. [Data Science in Real Life (Coursera / Johns Hopkins)](https://www.coursera.org/learn/real-life-data-science#syllabus). In some units, nice high level material on experiment design, causality, among other topics. [Course Promo in YT](https://www.youtube.com/watch?v=9BIYmw5wnBI).
 ### 1.6. [Measuting Causal Effects in the Social Sciences](https://www.coursera.org/learn/causal-effects). 
 ### 1.7. [A Crash Course in Causality: Inferring Causal Effects from Observational Data (Coursera / Penn)](https://www.coursera.org/learn/crash-course-in-causality). "We have all heard the phrase “correlation does not equal causation.”  What, then, does equal causation?  This course aims to answer that question and more!"
+### 1.8. [Probability and Statistics: To p or not to p? (Coursera / U of London)](https://www.coursera.org/learn/probability-statistics#syllabus). On the basic side, but ok in case you need a refresher on the fundamentals. 
 
 
 
