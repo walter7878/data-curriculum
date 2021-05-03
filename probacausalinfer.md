@@ -47,3 +47,7 @@
 ## 4.2 MCMC
 
 ### 4.2.1 [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+
+## 4.3 Experiment Design
+
+### 4.3.1 [Design of Experiments (DOE) with python](https://medium.com/mlearning-ai/design-of-experiments-doe-with-python-be88f5c013f5)
