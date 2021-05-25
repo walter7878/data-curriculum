@@ -42,6 +42,8 @@
 ### 4.1.5 [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
 ### 4.1.6 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
 ### 4.1.7 [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
+### 4.1.8. [Bayesian inference; How we are able to chase the Posterior](https://www.ritchievink.com/blog/2019/06/10/bayesian-inference-how-we-are-able-to-chase-the-posterior/) Amazing article with clear code examples. Also MCMC commented. More here: https://www.ritchievink.com/tags/bayesian/
+#### 4.1.9 [Bayesian AB testing whitepaper](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
 
 
 ## 4.2 MCMC
