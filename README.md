@@ -7,6 +7,7 @@ So far, in this repo:
 
 * [Selected Libraries, Modules and Tools](https://github.com/walter7878/data-curriculum/blob/master/libs.md). A selection of things I find useful, interesting or curious. More hands-on material for somehow experienced users. Again, mostly Python centric.
 
+* [Probable Cause](https://github.com/walter7878/data-curriculum/blob/master/probacausalinfer.md). Resources to learn Experiment Design, A/B testing, Bayes applications to Decision Science, Graphical Modelling, MCMC and probabilistic programming among other -related- topics.
 
 WHG.
 Amsterdam.
