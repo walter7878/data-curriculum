@@ -1,5 +1,8 @@
 # Data Curriculum (WIP)
----
+
+<p align="center">
+  <img src="/images/catdog.png" />
+</p>
 
 ## 01 Statistics and Probability
 1. [post] [Probability and Statistics refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics#). Ultra-light refresher of basic concepts.
