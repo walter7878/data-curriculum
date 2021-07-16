@@ -1,7 +1,7 @@
 # Data Curriculum (WIP)
 
 <p align="center">
-  <img src="/images/catdog.png" />
+  <img src="/images/catdog.jpg" />
 </p>
 
 ## 01 Statistics and Probability
