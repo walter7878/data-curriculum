@@ -1,7 +1,5 @@
 # Welcome to Proba Causal Infer dot M D :-) 
 
-![probablecause](https://blog.ml.cmu.edu/wp-content/uploads/2019/11/xkcd_causation.png)
-
 <p align="center">
   <img src="https://blog.ml.cmu.edu/wp-content/uploads/2019/11/xkcd_causation.png" />
 </p>
