@@ -1,4 +1,5 @@
-# Data Curriculum (WIP).
+# Data Curriculum (WIP)
+---
 
 ## 01 Statistics and Probability
 1. [post] [Probability and Statistics refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics#). Ultra-light refresher of basic concepts.
@@ -110,3 +111,6 @@
 
 ## XX Other stuff:
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of.
+
+---
+Comments? Reach out to me at tw [@unbiasedwaldo](https://twitter.com/UnbiasedWaldo) or LinkedIn [/in/walterhgp/](https://www.linkedin.com/in/walterhgp/)
