@@ -1,7 +1,7 @@
 # Welcome to Proba Causal Infer dot M D :-) 
 
 <p align="center">
-  <img src="https://blog.ml.cmu.edu/wp-content/uploads/2019/11/xkcd_causation.png" />
+  <img src="/images/causal.png" />
 </p>
 
 ### Resources to learn Experiment Design, A/B testing, Bayes applications to Decision Science, Graphical Modelling, MCMC and probabilistic programming among other -related- topics.
