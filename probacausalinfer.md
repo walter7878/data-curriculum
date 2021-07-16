@@ -52,3 +52,7 @@
 ## 4.3 Experiment Design
 
 1. [Design of Experiments (DOE) with python](https://medium.com/mlearning-ai/design-of-experiments-doe-with-python-be88f5c013f5)
+
+
+---
+Comments? Reach out to me via Twitter [@unbiasedwaldo](https://twitter.com/UnbiasedWaldo) or LinkedIn [/in/walterhgp/](https://www.linkedin.com/in/walterhgp/)
