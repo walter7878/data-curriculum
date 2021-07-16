@@ -113,4 +113,4 @@
 1. [yt] [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w). A classic presentation by statistician Hans Rosling. Not technical, but already a classic many of you may know or heard of.
 
 ---
-Comments? Reach out to me at tw [@unbiasedwaldo](https://twitter.com/UnbiasedWaldo) or LinkedIn [/in/walterhgp/](https://www.linkedin.com/in/walterhgp/)
+Comments? Reach out to me via Twitter [@unbiasedwaldo](https://twitter.com/UnbiasedWaldo) or LinkedIn [/in/walterhgp/](https://www.linkedin.com/in/walterhgp/)
