@@ -9,7 +9,7 @@ So far, in this repo:
 
 * [Probable Cause](https://github.com/walter7878/data-curriculum/blob/master/probacausalinfer.md). Resources to learn Experiment Design, A/B testing, Bayes applications to Decision Science, Graphical Modelling, MCMC and probabilistic programming among other -related- topics.
 
-
+* [Boost your Data Analysis and BI](https://github.com/walter7878/data-curriculum/blob/master/boost_your_data_analysis.md). Resources to learn how to process and extract value from data using data analysis and BI tools like Excel, PowerBI and others. Ideal for analysts and professionals that are already dealing with data -for example in Excel- and need to go to the next level. (Soon!)
 
 
 
