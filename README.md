@@ -1,4 +1,4 @@
-# data-curriculum
+# data-curricula
 Permanent work in progress. If you think there is something interesting that belongs to this list(s), let me know.
 
 So far, in this repo:
