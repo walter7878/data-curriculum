@@ -4,7 +4,7 @@
 
 ---
 
-## 1. General Intros and MOOCs
+## 01 General Intros and MOOCs
 1. [Probabilistic Graphical Models Specialization (Stanford Uni / Coursera)](https://www.coursera.org/specializations/probabilistic-graphical-models). Composed of 3 courses, Representation, Inference and Learning. Offered by Stanford University via Coursera.
 2. [Introduction to Computational Statistics for Data Scientists Specialization (Databricks / Coursera)](https://www.coursera.org/specializations/compstats). Practical Bayesian Inference with PyMC3. A conceptual understanding of the techniques and the tools used to perform scalable Bayesian inference in practice. By Dr. Srijith Rajamohan, offered by Databricks in Coursera. Composed by 3 courses: Intro to Bayesian Statistics, Bayesian inference with MCMC and Intro to PyMC3 for Bayesian Modeling and Inference. 
 3. [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW). EDX verdsion of the MIT 6.041, much more dense (see item 3.1 below)
@@ -18,31 +18,31 @@
 
 
 
-## 2. Talks and Conferences, generally Youtubes 
+## 02 Talks and Conferences, generally Youtubes 
 
-### 2.1. [Bayesian A/B Testing - Marc Garcia](https://www.youtube.com/watch?v=UxEFAkDlkiA). PyData talk. 
-### 2.2. [Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck](https://www.youtube.com/watch?v=M-kBB2I4QlE). Talk by CF at Montreal Python. 
-### 2.3. [John Salvatier: Bayesian inference with PyMC 3](https://www.youtube.com/watch?v=VVbJ4jEoOfU). From PyData Seattle 2015.
-### 2.4. [Nora Neumann - Usable A/B testing – A Bayesian approach](https://www.youtube.com/watch?v=PSqtcNZDj4A).
+1. [Bayesian A/B Testing - Marc Garcia](https://www.youtube.com/watch?v=UxEFAkDlkiA). PyData talk. 
+2. [Probabilistic Programming and Bayesian Modeling with PyMC3 - Christopher Fonnesbeck](https://www.youtube.com/watch?v=M-kBB2I4QlE). Talk by CF at Montreal Python. 
+3. [John Salvatier: Bayesian inference with PyMC 3](https://www.youtube.com/watch?v=VVbJ4jEoOfU). From PyData Seattle 2015.
+4. [Nora Neumann - Usable A/B testing – A Bayesian approach](https://www.youtube.com/watch?v=PSqtcNZDj4A).
 
 
-## 3. University Courses
+## 03 University Courses
 
-### 3.1 [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/). This are de MIT sessions recorded. Very good material but not designed as MOOC. For a more remote-learning approach, see item 1.3
+1 [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/). This are de MIT sessions recorded. Very good material but not designed as MOOC. For a more remote-learning approach, see item 1.3
 
-## 4. Articles and posts
+## 04 Articles and posts
 
 ## 4.1 A/B Testing
 
-### 4.1.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
-### 4.1.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
-### 4.1.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
-### 4.1.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
-### 4.1.5 [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
-### 4.1.6 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
-### 4.1.7 [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
-### 4.1.8. [Bayesian inference; How we are able to chase the Posterior](https://www.ritchievink.com/blog/2019/06/10/bayesian-inference-how-we-are-able-to-chase-the-posterior/) Amazing article with clear code examples. Also MCMC commented. More here: https://www.ritchievink.com/tags/bayesian/
-#### 4.1.9 [Bayesian AB testing whitepaper](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
+4.1.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+4.1.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
+4.1.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+4.1.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+4.1.5 [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
+4.1.6 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
+4.1.7 [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
+4.1.8. [Bayesian inference; How we are able to chase the Posterior](https://www.ritchievink.com/blog/2019/06/10/bayesian-inference-how-we-are-able-to-chase-the-posterior/) Amazing article with clear code examples. Also MCMC commented. More here: https://www.ritchievink.com/tags/bayesian/
+4.1.9 [Bayesian AB testing whitepaper](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
 
 
 ## 4.2 MCMC
