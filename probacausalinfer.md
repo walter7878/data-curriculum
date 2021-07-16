@@ -28,27 +28,27 @@
 
 ## 03 University Courses
 
-1 [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/). This are de MIT sessions recorded. Very good material but not designed as MOOC. For a more remote-learning approach, see item 1.3
+1. [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/). This are de MIT sessions recorded. Very good material but not designed as MOOC. For a more remote-learning approach, see item 1.3
 
 ## 04 Articles and posts
 
 ## 4.1 A/B Testing
 
-4.1.1 [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
-4.1.2 [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
-4.1.3 [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
-4.1.4 [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
-4.1.5 [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
-4.1.6 [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
-4.1.7 [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
-4.1.8. [Bayesian inference; How we are able to chase the Posterior](https://www.ritchievink.com/blog/2019/06/10/bayesian-inference-how-we-are-able-to-chase-the-posterior/) Amazing article with clear code examples. Also MCMC commented. More here: https://www.ritchievink.com/tags/bayesian/
-4.1.9 [Bayesian AB testing whitepaper](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
+1. [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+2. [Is your A/B testing effort just chasing statistical ghosts?](https://booking.ai/is-your-a-b-testing-effort-just-chasing-statistical-ghosts-eb85602bef7e)
+3. [Simple Sequential A/B Testing](https://www.evanmiller.org/sequential-ab-testing.html)
+4. [https://www.evanmiller.org/bayesian-ab-testing.html](https://www.evanmiller.org/bayesian-ab-testing.html). On the technical side, but a real goldmine.
+5. [A/B Testing Explained + a Collection of A/B Testing Learning Resources](https://soshace.com/ab-testing-resources/).
+6. [The Surprising Power of Online Experiments](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
+7. [“Controlled experiments on the web: survey and practical guide”,](https://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf) a paper written by Ron Kohavi from Microsoft, is an absolute must-read, which many reviewers have found to be even better than any other written material or book on the topic: it gives an overview of the problem, covers in great detail the controlled experiments performed, a lot of mathematical data with explanations and reasons for using each, and finishes with a comprehensive analysis of the test outcomes.
+8. [Bayesian inference; How we are able to chase the Posterior](https://www.ritchievink.com/blog/2019/06/10/bayesian-inference-how-we-are-able-to-chase-the-posterior/) Amazing article with clear code examples. Also MCMC commented. More here: https://www.ritchievink.com/tags/bayesian/
+9. [Bayesian AB testing whitepaper](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
 
 
 ## 4.2 MCMC
 
-### 4.2.1 [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+1. [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 
 ## 4.3 Experiment Design
 
-### 4.3.1 [Design of Experiments (DOE) with python](https://medium.com/mlearning-ai/design-of-experiments-doe-with-python-be88f5c013f5)
+1. [Design of Experiments (DOE) with python](https://medium.com/mlearning-ai/design-of-experiments-doe-with-python-be88f5c013f5)
