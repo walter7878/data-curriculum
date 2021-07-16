@@ -9,6 +9,13 @@ So far, in this repo:
 
 * [Probable Cause](https://github.com/walter7878/data-curriculum/blob/master/probacausalinfer.md). Resources to learn Experiment Design, A/B testing, Bayes applications to Decision Science, Graphical Modelling, MCMC and probabilistic programming among other -related- topics.
 
-WHG.
+
+
+
+
+
 Amsterdam.
 July 2021!
+
+---
+Comments? Reach out to me via Twitter [@unbiasedwaldo](https://twitter.com/UnbiasedWaldo) or LinkedIn [/in/walterhgp/](https://www.linkedin.com/in/walterhgp/)
