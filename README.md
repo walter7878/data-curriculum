@@ -3,11 +3,11 @@ Permanent work in progress. If you think there is something interesting that bel
 
 So far, in this repo:
 
-* [The Data curriculum](https://github.com/walter7878/data-curriculum/blob/master/datacurri.md ). A collection of learning material. Analytics, DS, ML, etc.
+* [The Data curriculum](https://github.com/walter7878/data-curriculum/blob/master/datacurri.md ). A collection of learning material. Analytics, DS, ML, etc. From medium to advanced, and mostly focused on Python, when a programming language is relevant.
 
-* [Selected Libraries, Modules and Tools](https://github.com/walter7878/data-curriculum/blob/master/libs.md). A selection of things I find useful, interesting or curious. More hands-on material for somehow experienced users.
+* [Selected Libraries, Modules and Tools](https://github.com/walter7878/data-curriculum/blob/master/libs.md). A selection of things I find useful, interesting or curious. More hands-on material for somehow experienced users. Again, mostly Python centric.
 
 
 WHG.
 Amsterdam.
-July 2020!
+July 2021!
